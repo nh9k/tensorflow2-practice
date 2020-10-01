@@ -6,19 +6,20 @@
 <br/>
 
 | # | we can learn about | logic operation |  equation | finished| file name |  
-| :------------ : | :-----------: |:-----------: | :-----------: | :-----------: | :-----------: |
-| 1 | TF2 basic, Node, Autograph | basic(x, +)| output = wx+b |  O | 00_basic.ipynb |
-| 2 | Train, MSE, Gradient descent| and, or gate| Mean Square Error, w = w - lr*(aLoss/aw) |  O | 01_forward_back_propagation.ipynb  |
-| 3 | Keras basic, Dense layer, binary cross entropy, sigmoid, accuracy| xor gate | 1 / (1 + exp(-x)) | O | 02_dense_layer.ipynb |
-| 4 | |||||
-| 5 | |||||
+| :-----------: | :-----------: |:-----------: | :-----------: | :-----------: | :-----------: |  
+| 1 | TF2 basic, Node, Autograph | basic(x, +)| output = wx+b |  O | 00_basic.ipynb |  
+| 2 | Train, MSE, Gradient descent| and, or gate| Mean Square Error, w = w - lr*(aLoss/aw) | O | 01_forward_back_propagation.ipynb  |  
+| 3 | Keras basic, Dense layer, binary cross entropy, sigmoid, accuracy| xor gate | 1 / (1 + exp(-x)) | O | 02_dense_layer.ipynb |  
+| 4 | | | | | |    
+| 5 | | | | | |    
+
 
 <br/>
 
-### Reference Implementations
+## Reference Implementations
 https://github.com/minsuk-heo/tf2
 
 <br/>
 
-### Author
+## Author
 [nh9k](https://github.com/nh9k) / [personal blog](https://blog.naver.com/kimnanhee97)
