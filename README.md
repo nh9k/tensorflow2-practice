@@ -1,4 +1,4 @@
-# tensorflow-practice
+# tensorflow2-practice
 <br/>  
 
 ![image](https://www.gstatic.com/devrel-devsite/prod/v85e39fe21f53c758adf6c791fb94a7a2182cff2705b3dc8ed7c59fc745471159/tensorflow/images/lockup.svg)
